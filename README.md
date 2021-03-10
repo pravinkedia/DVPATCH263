@@ -1,7 +1,7 @@
 # DVPATCH263
 
 ## Install Podman on Bastion Node
->
+
 ###### mkdir podman
 ###### cd podman
 ###### wget https://download-ib01.fedoraproject.org/pub/epel/7/x86_64/Packages/f/fuse3-libs-3.6.1-2.el7.x86_64.rpm
