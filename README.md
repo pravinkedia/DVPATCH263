@@ -10,3 +10,17 @@ wget http://mirror.centos.org/centos/7/extras/x86_64/Packages/container-selinux-
 sudo yum -y localinstall *rpm
 sudo yum -y install podman
 
+## Upload the images to the registry manually from the Bastion Node
+
+
+## Tag and Push the DV 263 Patch
+
+
+
+## Modify the yaml file to remove the problematic patch
+
+
+
+## Apply the Patch
+
+
